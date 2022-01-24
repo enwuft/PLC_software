@@ -67,3 +67,31 @@
 
     ##### Requirement
     * Informatation form
+
+#### ABB
+  - <code>https://new.abb.com/plc/automationbuilder/platform/software</code>
+    ##### Specific data
+      - Created Date
+      - Size
+  - Virustotal
+    - <code>http://</code>
+    ##### Checksum MD5 <code>test</code>
+    Wayback Machine
+    <code>https://web.archive.org/web/20220124115243/https://new.abb.com/plc/automationbuilder/platform/software</code>
+
+    ##### Requirement
+    * null
+
+#### Schneider Electric
+  - <code>https://www.se.com/il/en/product-category/5100-software/?filter=business-1-industrial-automation-and-control</code>
+    ##### Specific data
+      - Created Date
+      - Size
+  - Virustotal
+    - <code>http://</code>
+    ##### Checksum MD5 <code>test</code>
+    Wayback Machine
+    <code>https://web.archive.org/web/20220124115736/https://www.se.com/il/en/product-category/5100-software/?filter=business-1-industrial-automation-and-control</code>
+
+    ##### Requirement
+    * null
