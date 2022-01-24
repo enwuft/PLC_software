@@ -53,3 +53,17 @@
 
     ##### Requirement
     * null
+
+#### Omron
+  - <code>https://automation.omron.com/en/ca/forms/cx-one-software-download-request-form</code>
+    ##### Specific data
+      - Created Date
+      - Size
+  - Virustotal
+    - <code>http://</code>
+    ##### Checksum MD5 <code>test</code>
+    Wayback Machine
+    <code>https://web.archive.org/web/20220124114643/https://automation.omron.com/en/ca/forms/cx-one-software-download-request-form</code>
+
+    ##### Requirement
+    * Informatation form
